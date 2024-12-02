@@ -1,0 +1,78 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Windows OS-specific Files
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Windows File Explorer Thumbnails
+*.stackdump
+
+# Cache and Backup Files
+*.bak
+*.tmp
+*.temp
+*.~*
+
+# Visual Studio/MonoDevelop generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# JetBrains Rider settings
+.idea/
+*.idea/
+
+# Rider project files
+*.iml
+out/
+
+# TextMesh Pro Generated Files
+[Tt]extMeshPro/
+
+# Lighting Data
+[Ll]ightmap-[Dd]ata*/
+
+# Addressables
+[Aa]ssets/[Aa]ddressable[Aa]sset[Aa]dmin*/
+[Aa]ssets/**/addressables_content_state.bin
+
+# Unity Build Outputs
+[Bb]uilds/
+[Bb]uild/
+*.apk
+*.aab
+
+# Crash Reports and Logs
+sysinfo.txt
+crash.dmp
+error.log
+output_log.txt
+
+# Unity Generated Files (in Assets)
+[Aa]ssets/**/*.mat.meta
+[Aa]ssets/**/*.physicMaterial.meta
+
+# Ignore Packed or Binary Cache
+[Aa]ssets/**/StreamingAssets/
+MemoryCaptures/
+
+# Exclude Personal Files
+*.swp
+*.lock
+*.DS_Store
+/[Aa]ssets/[Ss]treamingAssets/aa/*
